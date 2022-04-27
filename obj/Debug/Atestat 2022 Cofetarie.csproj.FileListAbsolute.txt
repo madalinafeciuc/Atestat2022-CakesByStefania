@@ -1,0 +1,15 @@
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\bin\Debug\Atestat 2022 Cofetarie.exe.config
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\bin\Debug\Atestat 2022 Cofetarie.exe
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\bin\Debug\Atestat 2022 Cofetarie.pdb
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\obj\Debug\Atestat 2022 Cofetarie.csproj.AssemblyReference.cache
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\obj\Debug\Atestat_2022_Cofetarie.MainMenu.resources
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\obj\Debug\Atestat_2022_Cofetarie.MeniuPrajituri.resources
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\obj\Debug\Atestat_2022_Cofetarie.Properties.Resources.resources
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\obj\Debug\Atestat 2022 Cofetarie.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\obj\Debug\Atestat 2022 Cofetarie.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\obj\Debug\Atestat 2022 Cofetarie.exe
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\obj\Debug\Atestat 2022 Cofetarie.pdb
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\obj\Debug\Atestat_2022_Cofetarie.Comanda.resources
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\bin\Debug\Comenzi.mdf
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\bin\Debug\Comenzi_log.ldf
+C:\Users\filip\Desktop\Atestat 2022 Cofetarie\obj\Debug\Atestat_2022_Cofetarie.Comenzi.resources
